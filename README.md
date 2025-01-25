@@ -1,5 +1,5 @@
 ### **Steps to Submit Your App to the BounceBit Store**
-
+1
 1. Fork BounceBit-App-Store repo
 2. Add a new folder with the same name as the project to apps/.
 3. Include App details in the new folder. 
